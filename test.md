@@ -6,6 +6,6 @@ description: "test photo."
 
 photos:
     set: berlin
-    size: 3
+    size: 5
 ---
 
