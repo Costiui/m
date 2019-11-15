@@ -1,3 +1,10 @@
+---
+
+title: test
+permalink: /test/
+description: "An example photo gallery."
+
+
 <!DOCTYPE html>
 <html>
 <head>
