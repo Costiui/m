@@ -4,6 +4,6 @@ permalink: /test/
 description: "photo test."
 
 photos:
-    set: berlin
+    set: test
     size: 3
 ---
