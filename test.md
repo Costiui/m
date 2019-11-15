@@ -1,7 +1,8 @@
 ---
-layout: page
-title: test
+layout: default
+title: Photos
 permalink: /test/
+description: "ENTER HERE"
 ---
 
 <style>
