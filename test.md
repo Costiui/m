@@ -1,5 +1,4 @@
 ---
-layout: default
 title: test
 permalink: /test/
 description: "An example photo gallery."
