@@ -1,9 +1,11 @@
+---
 layout: photo_set
-title: foto test
+title: test phot
 permalink: /test/
-description: "photo test."
+description: "test photo."
 
 photos:
     set: test
     size: 3
 ---
+
