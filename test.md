@@ -1,7 +1,7 @@
 ---
+layout: page
 title: test
 permalink: /test/
-description: "An example photo gallery."
 ---
 
 <style>
@@ -54,5 +54,3 @@ div.desc {
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
-
-</body>
