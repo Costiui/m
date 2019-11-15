@@ -29,29 +29,29 @@ div.desc {
 </style>
 
 <div class="gallery">
-  <a target="_blank" href="https://github.costiui.net/m/berlin">
+  <a target="" href="https://github.costiui.net/m/berlin">
     <img src="https://github.costiui.net/m/images/photos/berlin-1.jpg" alt="Cinque Terre" width="600" height="400">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
 
 <div class="gallery">
-  <a target="" href="berlin">
+  <a target="" href="https://github.costiui.net/m/barcelona">
     <img src="https://github.costiui.net/m/images/photos/berlin-2.jpg" alt="Forest" width="600" height="400">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="images/photos/berlin-3.jpg">
-    <img src="images/photos/berlin-3.jpg" alt="Northern Lights" width="600" height="400">
+  <a target="" href="https://github.costiui.net/m/london">
+    <img src="https://github.costiui.net/m/images/photos/berlin-3.jpg" alt="Northern Lights" width="600" height="400">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="images/photos/berlin-1.jpg">
-    <img src="images/photos/berlin-1.jpg" alt="Mountains" width="600" height="400">
+  <a target="" href="https://github.costiui.net/m/madrid">
+    <img src="https://github.costiui.net/m/images/photos/berlin-1.jpg" alt="Mountains" width="600" height="400">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
