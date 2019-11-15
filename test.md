@@ -7,6 +7,14 @@ description: "test photo."
 photos:
     set: berlin
     size: 5
+    
+    
+  - image: /photos/berlin-1.jpg
+    caption: Berlin 1
+  - image: /photos/berlin-2.jpg
+    caption: Costiui- Berlin
+  - image: /photos/berlin-3.jpg
+    caption: Costiui - 2012    
 ---
 
 <ul class="gallery">
