@@ -2,11 +2,8 @@
 title: test
 permalink: /test/
 description: "An example photo gallery."
+---
 
-
-<!DOCTYPE html>
-<html>
-<head>
 <style>
 div.gallery {
   margin: 5px;
@@ -29,8 +26,6 @@ div.desc {
   text-align: center;
 }
 </style>
-</head>
-<body>
 
 <div class="gallery">
   <a target="_blank" href="images/photos/berlin-1.jpg">
