@@ -6,5 +6,5 @@ description: "An example photo gallery."
 
 photos:
     set: berlin
-    size: 2
+    size: 3
 ---
