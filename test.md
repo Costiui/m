@@ -1,12 +1,6 @@
 ---
-layout: photo_set
-title: test phot
-permalink: /test/
-description: "test photo."
-
+title: Acasa
 photos:
-    set: berlin
-    size: 5
     
  photos:   
   - image: /photos/berlin-1.jpg
