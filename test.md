@@ -29,14 +29,14 @@ div.desc {
 </style>
 
 <div class="gallery">
-  <a target="_blank" href="https://github.costiui.net/m/images/photos/berlin-1.jpg">
+  <a target="_blank" href="https://github.costiui.net/m/berlin">
     <img src="https://github.costiui.net/m/images/photos/berlin-1.jpg" alt="Cinque Terre" width="600" height="400">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="https://github.costiui.net/m/images/photos/berlin-2.jpg">
+  <a target="" href="berlin">
     <img src="https://github.costiui.net/m/images/photos/berlin-2.jpg" alt="Forest" width="600" height="400">
   </a>
   <div class="desc">Add a description of the image here</div>
