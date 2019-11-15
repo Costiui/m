@@ -29,15 +29,15 @@ div.desc {
 </style>
 
 <div class="gallery">
-  <a target="_blank" href="test/images/photos/berlin-1.jpg">
-    <img src="test/images/photos/berlin-1.jpg" alt="Cinque Terre" width="600" height="400">
+  <a target="_blank" href="https://github.costiui.net/m/images/photos/berlin-1.jpg">
+    <img src="https://github.costiui.net/m/images/photos/berlin-1.jpg" alt="Cinque Terre" width="600" height="400">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="images/photos/berlin-2.jpg">
-    <img src="images/photos/berlin-2.jpg" alt="Forest" width="600" height="400">
+  <a target="_blank" href="https://github.costiui.net/m/images/photos/berlin-2.jpg">
+    <img src="https://github.costiui.net/m/images/photos/berlin-2.jpg" alt="Forest" width="600" height="400">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
