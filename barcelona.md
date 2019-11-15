@@ -1,3 +1,9 @@
+---
+layout: page
+title: Barcelona
+permalink: /barcelona/
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
